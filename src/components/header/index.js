@@ -47,7 +47,7 @@ const useStyles = makeStyles((theme) => ({
   },
   mobileMenu: {
     position: "absolute",
-    top: "100%",
+    top: "110%",
     left: "50%",
     width: "95%",
     transform: "translateX(-50%)",
@@ -70,7 +70,7 @@ const useStyles = makeStyles((theme) => ({
         color: "black",
         display: "block",
         textDecoration: "none",
-        fontSize: "10px",
+        fontSize: "20px",
         margin: "auto",
         width: "100%",
         textAlign: "center",
